@@ -9,9 +9,9 @@ O foco aqui foi criar uma ferramenta prática. Em vez de olhar planilhas travada
 ### 🖼️ Visual do Dashboard
 Aqui está uma visão geral do painel:
 
-![Painel TechHub Digital](NOME_DA_SUA_IMAGEM.png)
+![Painel TechHub Digital](https://raw.githubusercontent.com/michaelgsandrade/vendas-techhub-powerbi/refs/heads/main/Dashboard%20BI%20-%20Print.png)
 
-👉 **[Clique aqui para acessar o Dashboard Interativo no NovyPro](SEU_LINK_AQUI)**
+👉 **[Faça o download clicando aqui](https://github.com/michaelgsandrade/vendas-techhub-powerbi/raw/refs/heads/main/Dashboard%20Vendas%20em%20Equipe%20-%20Tech%20Michael%20Andrade.pbix)**
 
 ---
 
